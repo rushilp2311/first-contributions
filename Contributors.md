@@ -1,6 +1,7 @@
 # Contributors
 - Rahul Rajan
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
+- [Rushil Patel] (https://github.com/rushilp2311)	
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Yingfan Chen](https://github.com/yingfc)
 - [sneha jogur](https://github.com/JogurSneha)
